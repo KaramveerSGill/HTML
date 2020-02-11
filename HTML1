@@ -1,0 +1,87 @@
+<!DOCTYPEhtml>
+<html>
+<style> body {text-align:center}>
+
+</style>
+<head
+  <meta charset="utf-8"
+  <meta name= "viewpoint" contet="width=device-width, initial-scale=1">
+  <title>Landing on a Place to Go</title>
+</head>
+<hr>
+<body>
+      <h1>
+    <br>
+    Vacation Budgeting and Planning
+    <br>
+        <h2><b>“Never spend your money before you have earned it.” —Thomas Jefferson<b></h2>
+        <br>
+      </h1>
+<hr>
+Mexico
+    <br>
+<img src="Mexico1.jpg" border=5 >
+    <br>
+      <ul>
+        <li>Puerto Vallarta</li>
+      </ul>
+
+      <table align="center" border="10" cellpadding="10" cellspacing="0">
+        <tr>
+          <th>Flight</th>
+          <th>Airbnb</th>
+          <th>Food</th>
+          <th>Entertainment</th>
+          <th>Activities</th>
+          <th>total</th>
+        </tr>
+        <tr>
+          <td>$500</td>
+          <td>$300</td>
+          <td>$250</td>
+          <td>$200</td>
+          <td>$200</td>
+          <td>$1450</td>
+        </tr>
+      </table>
+    <br>
+    OR
+    <br><br>
+Puerto Rico
+  <br>
+<img src="PuertoRico1.jpg" border=5 >
+    <ul>
+      <li>San Juan</li>
+    </ul>
+    <br>
+    <table align="center" border="10" cellpadding="10" cellspacing="0">
+      <tr>
+        <th>Flight</th>
+        <th>Airbnb</th>
+        <th>Food</th>
+        <th>Entertainment</th>
+        <th>Car Rental</th>
+        <th>Total</th>
+      </tr>
+      <tr>
+        <td>$400</td>
+        <td>$300</td>
+        <td>$250</td>
+        <td>$200</td>
+        <td>$200</td>
+        <td>$1450</td>
+      </tr>
+    </table>
+</table>
+<br>
+
+<br>
+<br>
+<h2>Have any other suggestions?</h2>
+</body>
+
+<footer>
+
+</footer>
+
+<html>
